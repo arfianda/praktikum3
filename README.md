@@ -7,3 +7,7 @@ Program pertama yang akan dibuat adalah Program untuk menampilkan bilangan terbe
 Berikut flowchartnya
 
 <img src="/.images/pertama.png" width="500" alt="Flowchart">
+
+Jadi program akan meminta kita untuk memasukkan 3 angka untuk dibandingkan 
+
+<img src="/.images/outputprogram1.png" width="500" alt="Flowchart">

@@ -1,6 +1,6 @@
 # **Membuat Kode Program dari flowchart pertemuan ke 5**
 
-Tugas Pertemuan Ke 6
+Tugas Pertemuan Ke 5
 
 Nama: Arfianda Firsta Satritama
 

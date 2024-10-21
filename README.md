@@ -49,3 +49,10 @@ print(f"Bilangan terbesar adalah: {largest}")
 4. Lalu di Program utamanya kita masukkan angka yang harus dimasukkan oleh user
 5. Lalu kita panggil kembali function _mencari_biilangan_terbesar_
 6. Lalu Output bilangan terbesar dari ketiga bilangan yang di input akan muncul
+
+## **2. bilanganN.py**
+
+Program Kedua adalah untuk membandingkan bilangan yang di Input, input akan terus berjalan kecuali user memasukkan nilai 0
+
+**Flowchartnya**
+<img src="/.images/kedua.png" width="500" alt="Flowchart">

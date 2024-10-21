@@ -34,6 +34,13 @@ print("Masukkan tiga bilangan:")
 a = float(input("A: "))
 b = float(input("B: "))
 c = float(input("C: "))
+
+# Menentukan bilangan terbesar
+largest, message = mencari_bilangan_terbesar(a, b, c)
+
+# Menampilkan hasil
+print(f"\n{message}")
+print(f"Bilangan terbesar adalah: {largest}")
 ```
 
 1. Kita mendefinisikan function _mencari_bilangan_terbesar_ yang mengambil tiga parameter (a,b,c).

@@ -8,6 +8,6 @@ Berikut flowchartnya
 
 <img src="/.images/pertama.png" width="500" alt="Flowchart">
 
-Jadi program akan meminta kita untuk memasukkan 3 angka untuk dibandingkan 
+**Program akan meminta kita untuk memasukkan 3 angka untuk dibandingkan :**
 
 <img src="/.images/outputprogram1.png" width="500" alt="Flowchart">

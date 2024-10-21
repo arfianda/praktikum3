@@ -11,3 +11,19 @@ Berikut flowchartnya
 **Program akan meminta kita untuk memasukkan 3 angka untuk dibandingkan :**
 
 <img src="/.images/outputprogram1.png" width="500" alt="Flowchart">
+
+**Penjelasan**
+
+```
+def mencari_bilangan_terbesar(a, b, c):
+    if a > b:
+        if a > c:
+            return a, "A adalah terbesar"
+        else:
+            return c, "C adalah terbesar"
+    else:
+        if b > c:
+            return b, "B adalah terbesar"
+        else:
+            return c, "C adalah terbesar"
+```

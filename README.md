@@ -1,8 +1,11 @@
 # **Membuat Kode Program dari flowchart pertemuan ke 5**
 
 Tugas Pertemuan Ke 6
+
 Nama: Arfianda Firsta Satritama
+
 Kelas: TI 24 A3
+
 NIM: 312410377
 
 ## **1. bilanganterbesar.py**

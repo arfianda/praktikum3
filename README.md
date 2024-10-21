@@ -1,5 +1,10 @@
 # **Membuat Kode Program dari flowchart pertemuan ke 5**
 
+Tugas Pertemuan Ke 6
+Nama: Arfianda Firsta Satritama
+Kelas: TI 24 A3
+NIM: 312410377
+
 ## **1. bilanganterbesar.py**
 
 Program pertama yang akan dibuat adalah Program untuk menampilkan bilangan terbesar dari 3 Bilangan yang di Inputkan
@@ -154,4 +159,4 @@ else:
     print("\nTidak ada bilangan yang dimasukkan.")
 ```
 
-Jika tidak ada bilangan yang dimasukkan (pengguna langsung memasukkan 0), cetak pesan yang sesuai.
+Jika tidak ada bilangan yang dimasukkan (pengguna langsung memasukkan 0), program akan dijalankan dan menampilkan output perbandingan.

@@ -5,5 +5,4 @@
 Program pertama yang akan dibuat adalah Program untuk menampilkan bilangan terbesar dari 3 Bilangan yang di Inputkan
 
 Berikut flowchartnya
-
 ![](/.images/pertama.png)

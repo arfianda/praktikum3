@@ -6,4 +6,4 @@ Program pertama yang akan dibuat adalah Program untuk menampilkan bilangan terbe
 
 Berikut flowchartnya
 
-![](/.images/pertama.png)
+<img src="https://raw.githubusercontent.com/arfianda/praktikum3/master/.images/pertama.png" width="500" alt="Flowchart">
